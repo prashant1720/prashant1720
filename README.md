@@ -4,7 +4,7 @@ Prashant Sharma is a developer who believes that constant learning is only the w
 
 * He is founder of [incorebmedia](https://incorebmedia.com) a platform for writers .
 * Apart from developing stuff he likes to Read books and play cricket.
-Blogs:
+## Blogs:
 * Article on [Flutter:Best tools and environment for Development](https://www.incorebmedia.com/post/flutter-best-tools-and-environment-for-development)
 * Aticle on [Starting with React](https://prashantrockzz20.wixsite.com/website/single-post/2020/05/30/Starting-with-React)
 * Finding what matters to you [Ikigai, find your purpose](https://prashantrockzz20.wixsite.com/website/single-post/2020/05/19/Ikigai-find-your-purpose)
