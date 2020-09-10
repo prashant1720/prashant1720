@@ -6,6 +6,7 @@ Prashant Sharma is a developer who believes that constant learning is only the w
 * Apart from developing stuff he likes to Read books and play cricket.
 ## Blogs:
 * Article on [Flutter:Best tools and environment for Development](https://www.incorebmedia.com/post/flutter-best-tools-and-environment-for-development)
+* Blog on [Should Biggner level Programers use Git and Github ?](https://www.incorebmedia.com/post/getting-started-with-git-and-github)
 * Aticle on [Starting with React](https://prashantrockzz20.wixsite.com/website/single-post/2020/05/30/Starting-with-React)
 * Finding what matters to you [Ikigai, find your purpose](https://prashantrockzz20.wixsite.com/website/single-post/2020/05/19/Ikigai-find-your-purpose)
 * [Flutter Google sign in Using Firebase](https://prashantrockzz20.wixsite.com/website/single-post/2020/04/20/Flutter-Google-sign-in-Using-Firebase)
