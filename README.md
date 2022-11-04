@@ -1,7 +1,7 @@
 # About 👋 [Prashant](sharmaprashant.me)
 
 Prashant Sharma is a student who believes that constant learning is only the way to develop yourself. At present, He is pursuing his Master's in Computer Science at University of Alabama at Birmingham-USA.
- He is founder of [incorebmedia](https://incorebmedia.com) a platform for writers .
+* He is a content writer at [incorebmedia](https://incorebmedia.com) a platform for writers .
 * Apart from learning new stuff, he likes to read books and play cricket.
 ## Blogs:
 * Article on [Flutter: Best tools and environment for Development](https://www.incorebmedia.com/post/flutter-best-tools-and-environment-for-development)
