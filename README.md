@@ -1,6 +1,6 @@
 # About 👋 [Prashant](sharmaprashant.me)
 
-Prashant Sharma is a student who believes that constant learning is only the way to develop yourself. At present, He is pursuing his Master's in Computer Science at University of Alabama at Birmingham-USA.
+Prashant Sharma is a student who believes that constant learning is only the way to develop yourself. At present, He is a Working as Web Designer at university of Alabama at birmingham
 * He is a content writer at [DreamEnchantia](https://dreamenchantia.com) a platform for writers .
 * Apart from learning new stuff, he likes to read books and play cricket.
 ## Blogs:
